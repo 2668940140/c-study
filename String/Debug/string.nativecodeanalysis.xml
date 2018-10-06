@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>f:\cpp\c++study\first\</FILEPATH>
+      <FILENAME>string.cpp</FILENAME>
+      <LINE>19</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>6281</DEFECTCODE>
+    <DESCRIPTION>运算顺序不正确: 关系运算符的优先级高于位运算符。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>f:\cpp\c++study\first\</FILEPATH>
+      <FILENAME>string.cpp</FILENAME>
+      <LINE>19</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6281</DEFECTCODE>
+    <DESCRIPTION>运算顺序不正确: 关系运算符的优先级高于位运算符。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

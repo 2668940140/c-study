@@ -1,0 +1,6 @@
+﻿  string.cpp
+f:\cpp\c++study\first\string.cpp(19): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  String.vcxproj -> F:\cpp\C++study\Debug\String.exe
+  String.vcxproj -> F:\cpp\C++study\Debug\String.pdb (Full PDB)
+f:\cpp\c++study\first\string.cpp(19): warning C6281: 运算顺序不正确: 关系运算符的优先级高于位运算符。
+f:\cpp\c++study\first\string.cpp(19): warning C6281: 运算顺序不正确: 关系运算符的优先级高于位运算符。

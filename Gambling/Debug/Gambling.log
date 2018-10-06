@@ -1,0 +1,4 @@
+﻿  gambling.cpp
+f:\cpp\c++study\first\gambling.cpp(74): warning C4244: “=”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Gambling.vcxproj -> F:\cpp\C++study\Debug\Gambling.exe
+  Gambling.vcxproj -> F:\cpp\C++study\Debug\Gambling.pdb (Full PDB)

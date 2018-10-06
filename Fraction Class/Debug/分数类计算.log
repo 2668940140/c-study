@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (分数类计算.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  正在跳过...(未检测到相关更改)
+  main.cpp
+  Frac_class.cpp
+  分数类计算.vcxproj -> F:\cpp\分数类计算\Debug\Fraction.exe
+  分数类计算.vcxproj -> F:\cpp\分数类计算\Debug\Fraction.pdb (Full PDB)

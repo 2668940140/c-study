@@ -1,0 +1,4 @@
+﻿  newmemory.cpp
+f:\cpp\c++study\first\newmemory.cpp(2): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  New.vcxproj -> F:\cpp\C++study\Debug\New.exe
+  New.vcxproj -> F:\cpp\C++study\Debug\New.pdb (Full PDB)
